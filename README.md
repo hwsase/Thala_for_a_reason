@@ -1,5 +1,5 @@
 # Thala_for_a_reason
-This is a website that tells that why 7 is important wheather it's words or numbers.
+This is a website that tells why 7 is important wheather it's words or numbers.
 
 Used Technologies
 
